@@ -1,0 +1,3 @@
+[submodule "external/jackcolib"]
+	path = external/jackcolib
+	url = git@github.com:huming2207/jackcolib-kicad.git
