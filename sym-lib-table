@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "jackcolib")(type "KiCad")(uri "${KIPRJMOD}/external/jackcolib/JackcoLib.kicad_sym")(options "")(descr ""))
+)
